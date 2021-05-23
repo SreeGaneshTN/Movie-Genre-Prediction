@@ -1,4 +1,4 @@
-import tensorflow as tf 
+import tensorflow as tf #bibijbibnkbjbjnnknknjnn      
 from tensorflow.keras.preprocessing.image import ImageDataGenerator as aug
 from tensorflow.keras.layers import Conv2D,Flatten,Dense,BatchNormalization,MaxPooling2D,GlobalAveragePooling2D,GlobalMaxPooling2D
 from tensorflow.keras.layers import Dropout
